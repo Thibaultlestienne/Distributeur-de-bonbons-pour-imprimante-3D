@@ -1,1 +1,8 @@
-# Distributeur-de-bonbon-pour-imprimante-3D
+# Distributeur-de-bonbons-pour-imprimante-3D
+
+Ce Projet est un distributeur de bonbons.
+
+Dans le dossier pièces se trouve l'ensemble des pièces à imprimer en 3D auquel il faudra ajouter 
+ - un servomoteur 
+ - une carte Arduino nano
+ - un bouton de fin de course 20 X 12 X 6mm
